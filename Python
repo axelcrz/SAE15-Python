@@ -64,7 +64,7 @@ fichier.close() #modifie le fichier en fichier fermé
 
 
 
-fichier=open("C:/Users/croze/OneDrive/Documents/SAE15/Sae15.txt", "w") #ouvrir le fichier en mode excel
+fichier=open("C:/Users/croze/OneDrive/Documents/SAE15/Sae15.csv", "w") #ouvrir le fichier en mode excel
 
 fichier.write("Liste ip sources :;"+ipsr+"\nListe ip destination"+ipde+"\nListe des flags :;"+flag) #placer les categorie et les variable mit dans le prog
 
